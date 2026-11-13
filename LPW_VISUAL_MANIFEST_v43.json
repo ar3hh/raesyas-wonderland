@@ -1,0 +1,17 @@
+{
+  "version": 43,
+  "game": "Little Picture World",
+  "new_individual_3d_images": [
+    "fish",
+    "pear",
+    "orange",
+    "carrot",
+    "rabbit",
+    "grapes",
+    "bird"
+  ],
+  "embedded_webp": true,
+  "total_objects": 22,
+  "gameplay": "10 unique question IDs per session; across sessions exhaust 22-object pool before recycling",
+  "note": "Orange and Bird are framed from separately composed image panels; not generated as isolated cutouts. Other 5 are individual images. Images tested with Pillow; laptop/iPhone gameplay not verified."
+}

@@ -1,0 +1,17 @@
+{
+  "version": 41,
+  "game": "Little Picture World",
+  "premium_or_reframed_images": [
+    "lion",
+    "tiger",
+    "teddy bear",
+    "dog",
+    "apple",
+    "elephant",
+    "cat",
+    "bicycle",
+    "duck"
+  ],
+  "remaining_with_original_simple_art": 13,
+  "note": "Nine 3D-like assets are shipped, 3 are reframed from earlier mockups; not a complete 200-image collection."
+}

@@ -1,0 +1,149 @@
+{
+  "module": "Little Picture World",
+  "version": 40,
+  "image_style": "premium individual 3D illustration, fully in frame, no UI/text",
+  "available_premium_images": 0,
+  "planned_slots": 20,
+  "slots": [
+    {
+      "id": "apple",
+      "answer": "Apple",
+      "premium_asset": "assets/premium/little-picture/apple.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "banana",
+      "answer": "Banana",
+      "premium_asset": "assets/premium/little-picture/banana.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "orange",
+      "answer": "Orange",
+      "premium_asset": "assets/premium/little-picture/orange.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "pear",
+      "answer": "Pear",
+      "premium_asset": "assets/premium/little-picture/pear.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "lemon",
+      "answer": "Lemon",
+      "premium_asset": "assets/premium/little-picture/lemon.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "grapes",
+      "answer": "Grapes",
+      "premium_asset": "assets/premium/little-picture/grapes.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "carrot",
+      "answer": "Carrot",
+      "premium_asset": "assets/premium/little-picture/carrot.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "cherry",
+      "answer": "Cherry",
+      "premium_asset": "assets/premium/little-picture/cherry.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "fish",
+      "answer": "Fish",
+      "premium_asset": "assets/premium/little-picture/fish.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "bird",
+      "answer": "Bird",
+      "premium_asset": "assets/premium/little-picture/bird.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "cat",
+      "answer": "Cat",
+      "premium_asset": "assets/premium/little-picture/cat.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "dog",
+      "answer": "Dog",
+      "premium_asset": "assets/premium/little-picture/dog.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "lion",
+      "answer": "Lion",
+      "premium_asset": "assets/premium/little-picture/lion.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "tiger",
+      "answer": "Tiger",
+      "premium_asset": "assets/premium/little-picture/tiger.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "rabbit",
+      "answer": "Rabbit",
+      "premium_asset": "assets/premium/little-picture/rabbit.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "duck",
+      "answer": "Duck",
+      "premium_asset": "assets/premium/little-picture/duck.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "butterfly",
+      "answer": "Butterfly",
+      "premium_asset": "assets/premium/little-picture/butterfly.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "elephant",
+      "answer": "Elephant",
+      "premium_asset": "assets/premium/little-picture/elephant.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "flower",
+      "answer": "Flower",
+      "premium_asset": "assets/premium/little-picture/flower.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    },
+    {
+      "id": "star",
+      "answer": "Star",
+      "premium_asset": "assets/premium/little-picture/star.webp",
+      "image_minimum": "256x256",
+      "premium_asset_status": "not supplied"
+    }
+  ]
+}

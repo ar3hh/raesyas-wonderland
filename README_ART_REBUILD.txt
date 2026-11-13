@@ -1,0 +1,1 @@
+V15 Art repair. Includes 10 distinct starter coloring sheets, 10 four-step learn-to-draw tutorials, fill/brush/erase, undo/redo, save to IndexedDB Gallery. Other user-reported picture repetition/quality issues are not fixed in this package. Backup V15 data before installing.

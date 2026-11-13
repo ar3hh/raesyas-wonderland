@@ -1,0 +1,131 @@
+{
+  "game": "Little Picture World",
+  "target_age": 3,
+  "version": "39-deck",
+  "available_objects": 20,
+  "premium_assets_verified": 0,
+  "image_policy": "Do not claim generated UI mockups as standalone art",
+  "asset_path_pattern": "assets/premium/lpw/{id}.webp",
+  "objects": [
+    {
+      "id": "apple",
+      "answer": "Apple",
+      "path": "assets/premium/lpw/apple.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "banana",
+      "answer": "Banana",
+      "path": "assets/premium/lpw/banana.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "orange",
+      "answer": "Orange",
+      "path": "assets/premium/lpw/orange.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "pear",
+      "answer": "Pear",
+      "path": "assets/premium/lpw/pear.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "lemon",
+      "answer": "Lemon",
+      "path": "assets/premium/lpw/lemon.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "grapes",
+      "answer": "Grapes",
+      "path": "assets/premium/lpw/grapes.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "carrot",
+      "answer": "Carrot",
+      "path": "assets/premium/lpw/carrot.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "cherry",
+      "answer": "Cherry",
+      "path": "assets/premium/lpw/cherry.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "fish",
+      "answer": "Fish",
+      "path": "assets/premium/lpw/fish.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "bird",
+      "answer": "Bird",
+      "path": "assets/premium/lpw/bird.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "cat",
+      "answer": "Cat",
+      "path": "assets/premium/lpw/cat.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "dog",
+      "answer": "Dog",
+      "path": "assets/premium/lpw/dog.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "lion",
+      "answer": "Lion",
+      "path": "assets/premium/lpw/lion.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "tiger",
+      "answer": "Tiger",
+      "path": "assets/premium/lpw/tiger.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "rabbit",
+      "answer": "Rabbit",
+      "path": "assets/premium/lpw/rabbit.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "duck",
+      "answer": "Duck",
+      "path": "assets/premium/lpw/duck.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "butterfly",
+      "answer": "Butterfly",
+      "path": "assets/premium/lpw/butterfly.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "elephant",
+      "answer": "Elephant",
+      "path": "assets/premium/lpw/elephant.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "flower",
+      "answer": "Flower",
+      "path": "assets/premium/lpw/flower.webp",
+      "status": "needs standalone premium artwork"
+    },
+    {
+      "id": "star",
+      "answer": "Star",
+      "path": "assets/premium/lpw/star.webp",
+      "status": "needs standalone premium artwork"
+    }
+  ]
+}

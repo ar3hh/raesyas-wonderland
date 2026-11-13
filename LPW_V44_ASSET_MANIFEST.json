@@ -1,0 +1,268 @@
+{
+  "version": 44,
+  "little_picture_world_items": 50,
+  "new_embedded_premium_art_count": 46,
+  "legacy_embedded_art_count": 4,
+  "top_six_replacements": [
+    "Banana",
+    "Duck",
+    "Flower",
+    "Butterfly",
+    "Lemon",
+    "Tiger"
+  ],
+  "premium_shared_with_picture_spelling": true,
+  "photos": [
+    {
+      "answer": "Banana",
+      "source": "premium",
+      "filename": "assets/lpw-v44/banana.webp"
+    },
+    {
+      "answer": "Duck",
+      "source": "premium",
+      "filename": "assets/lpw-v44/duck.webp"
+    },
+    {
+      "answer": "Flower",
+      "source": "premium",
+      "filename": "assets/lpw-v44/flower.webp"
+    },
+    {
+      "answer": "Butterfly",
+      "source": "premium",
+      "filename": "assets/lpw-v44/butterfly.webp"
+    },
+    {
+      "answer": "Lemon",
+      "source": "premium",
+      "filename": "assets/lpw-v44/lemon.webp"
+    },
+    {
+      "answer": "Tiger",
+      "source": "premium",
+      "filename": "assets/lpw-v44/tiger.webp"
+    },
+    {
+      "answer": "Fish",
+      "source": "premium",
+      "filename": "assets/lpw-v44/fish.webp"
+    },
+    {
+      "answer": "Pear",
+      "source": "premium",
+      "filename": "assets/lpw-v44/pear.webp"
+    },
+    {
+      "answer": "Orange",
+      "source": "premium",
+      "filename": "assets/lpw-v44/orange.webp"
+    },
+    {
+      "answer": "Carrot",
+      "source": "premium",
+      "filename": "assets/lpw-v44/carrot.webp"
+    },
+    {
+      "answer": "Rabbit",
+      "source": "premium",
+      "filename": "assets/lpw-v44/rabbit.webp"
+    },
+    {
+      "answer": "Grapes",
+      "source": "premium",
+      "filename": "assets/lpw-v44/grapes.webp"
+    },
+    {
+      "answer": "Bird",
+      "source": "premium",
+      "filename": "assets/lpw-v44/bird.webp"
+    },
+    {
+      "answer": "Apple",
+      "source": "premium",
+      "filename": "assets/lpw-v44/apple.webp"
+    },
+    {
+      "answer": "Car",
+      "source": "premium",
+      "filename": "assets/lpw-v44/car.webp"
+    },
+    {
+      "answer": "Bus",
+      "source": "premium",
+      "filename": "assets/lpw-v44/bus.webp"
+    },
+    {
+      "answer": "Ladybug",
+      "source": "premium",
+      "filename": "assets/lpw-v44/ladybug.webp"
+    },
+    {
+      "answer": "Frog",
+      "source": "premium",
+      "filename": "assets/lpw-v44/frog.webp"
+    },
+    {
+      "answer": "Cat",
+      "source": "premium",
+      "filename": "assets/lpw-v44/cat.webp"
+    },
+    {
+      "answer": "Dog",
+      "source": "premium",
+      "filename": "assets/lpw-v44/dog.webp"
+    },
+    {
+      "answer": "Panda",
+      "source": "premium",
+      "filename": "assets/lpw-v44/panda.webp"
+    },
+    {
+      "answer": "Cow",
+      "source": "premium",
+      "filename": "assets/lpw-v44/cow.webp"
+    },
+    {
+      "answer": "Horse",
+      "source": "premium",
+      "filename": "assets/lpw-v44/horse.webp"
+    },
+    {
+      "answer": "Sheep",
+      "source": "premium",
+      "filename": "assets/lpw-v44/sheep.webp"
+    },
+    {
+      "answer": "Pig",
+      "source": "premium",
+      "filename": "assets/lpw-v44/pig.webp"
+    },
+    {
+      "answer": "Elephant",
+      "source": "premium",
+      "filename": "assets/lpw-v44/elephant.webp"
+    },
+    {
+      "answer": "Soccer Ball",
+      "source": "premium",
+      "filename": "assets/lpw-v44/soccer-ball.webp"
+    },
+    {
+      "answer": "Basketball",
+      "source": "premium",
+      "filename": "assets/lpw-v44/basketball.webp"
+    },
+    {
+      "answer": "Mushroom",
+      "source": "premium",
+      "filename": "assets/lpw-v44/mushroom.webp"
+    },
+    {
+      "answer": "Tree",
+      "source": "premium",
+      "filename": "assets/lpw-v44/tree.webp"
+    },
+    {
+      "answer": "Strawberry",
+      "source": "premium",
+      "filename": "assets/lpw-v44/strawberry.webp"
+    },
+    {
+      "answer": "Watermelon",
+      "source": "premium",
+      "filename": "assets/lpw-v44/watermelon.webp"
+    },
+    {
+      "answer": "Pineapple",
+      "source": "premium",
+      "filename": "assets/lpw-v44/pineapple.webp"
+    },
+    {
+      "answer": "Fire Truck",
+      "source": "premium",
+      "filename": "assets/lpw-v44/fire-truck.webp"
+    },
+    {
+      "answer": "Dump Truck",
+      "source": "premium",
+      "filename": "assets/lpw-v44/dump-truck.webp"
+    },
+    {
+      "answer": "Teddy Bear",
+      "source": "premium",
+      "filename": "assets/lpw-v44/teddy-bear.webp"
+    },
+    {
+      "answer": "Doll",
+      "source": "premium",
+      "filename": "assets/lpw-v44/doll.webp"
+    },
+    {
+      "answer": "Robot",
+      "source": "premium",
+      "filename": "assets/lpw-v44/robot.webp"
+    },
+    {
+      "answer": "Rocket",
+      "source": "premium",
+      "filename": "assets/lpw-v44/rocket.webp"
+    },
+    {
+      "answer": "Kite",
+      "source": "premium",
+      "filename": "assets/lpw-v44/kite.webp"
+    },
+    {
+      "answer": "Helicopter",
+      "source": "premium",
+      "filename": "assets/lpw-v44/helicopter.webp"
+    },
+    {
+      "answer": "Sailboat",
+      "source": "premium",
+      "filename": "assets/lpw-v44/sailboat.webp"
+    },
+    {
+      "answer": "Seashell",
+      "source": "premium",
+      "filename": "assets/lpw-v44/seashell.webp"
+    },
+    {
+      "answer": "Dolphin",
+      "source": "premium",
+      "filename": "assets/lpw-v44/dolphin.webp"
+    },
+    {
+      "answer": "Sun",
+      "source": "premium",
+      "filename": "assets/lpw-v44/sun.webp"
+    },
+    {
+      "answer": "Rainbow",
+      "source": "premium",
+      "filename": "assets/lpw-v44/rainbow.webp"
+    },
+    {
+      "answer": "Cherry",
+      "source": "legacy",
+      "filename": null
+    },
+    {
+      "answer": "Lion",
+      "source": "legacy",
+      "filename": null
+    },
+    {
+      "answer": "Star",
+      "source": "legacy",
+      "filename": null
+    },
+    {
+      "answer": "Bicycle",
+      "source": "legacy",
+      "filename": null
+    }
+  ],
+  "note": "46 3D-style object crops from a single generated asset sheet plus 4 existing embedded graphics. Not 50 distinct image generations. Some source crops remain small. Requires live browser QA."
+}
